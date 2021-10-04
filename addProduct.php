@@ -1,10 +1,4 @@
-<?php
 
-include "header.php";
-if (!is_login()) {
-    echo " <script>location.replace('index.php') </script> ";
-}
-?>
 <ul class="breadcrumb">
     <li class="breadcrumb-item  "><a href="index.php">الرئيسية</a></li>
     <li class="breadcrumb-item active "><a href="#">اضافة منتج</a></li>
