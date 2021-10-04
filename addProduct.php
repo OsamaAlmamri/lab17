@@ -1,6 +1,6 @@
 
 <ul class="breadcrumb">
-    <li class="breadcrumb-item  "><a href="index.php">الرئيسية</a></li>
+    <li class="item-breadcrumb-  "><a href="index.php">الرئيسية</a></li>
     <li class="breadcrumb-item active "><a href="#">اضافة منتج</a></li>
     </li>
 </ul>
